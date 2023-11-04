@@ -1,3 +1,4 @@
+![logo](https://github.com/SaiKumar2813/SaiKumar2813/blob/main/Blue%20Modern%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sai Kumar</h1>
 <h3 align="center">Data Science Student at Christ University.</h3>
 
